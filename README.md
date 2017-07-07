@@ -1,2 +1,4 @@
 # Cayenne_Watt_monitor
-A project with STC-013 sensor. The project read the value of Amps and put tgis online by using the MQTT protocol.
+This is one project for Cayenne Dashboard. You can read the value of STC-013 Amp sensor by using an Arduino MKR-1000 and put the value on the cloud. You can visualizing tha value by using the Cayenne Dashboard.
+
+For more informations you can visit www.mydevices.com
